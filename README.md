@@ -1,6 +1,6 @@
 ### Olá, eu sou Wellington 👋
 
-## Estagiário em Business Intelligence
+## Business Intelligence
 
 Sobre mim:
 
