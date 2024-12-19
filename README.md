@@ -5,7 +5,7 @@
 Sobre mim:
 
 - 🔭 Atualmente trabalho como Estagiário em Performance Operacional
-- 🏠 Atualmente moro e trabalho no Brasil
+- 🏠 Atualmente moro e trabalho no Brasil, SP
 - 🌱 Buscando constantemente aprender novas tecnologias
 
 Principais Ferramentas:
