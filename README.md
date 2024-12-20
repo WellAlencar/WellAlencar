@@ -30,7 +30,7 @@ Onde pode me encontrar:
 
 
 ## Portfólio e Principais Projetos
-### Dasboard NBA 22-23
+### Dashboard NBA 22-23
 <img align="right" width="500"  src="https://github.com/WellAlencar/Dashboard-NBA/blob/main/Imagens/NBA_3.png?raw=true">
 Projeto de dashboard devolvido com Power BI para identificar as principais estatísticas de 10 jogadores que se destacaram na temporada 22-23 da NBA, análise exploratória sobre estrelas do basquete na temporada.<br>
 Principais objetivos: <br>
