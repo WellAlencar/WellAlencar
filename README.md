@@ -39,4 +39,4 @@ Principais objetivos: <br>
 <br>
 <a href="https:https://app.powerbi.com/view?r=eyJrIjoiYjBiYmI1ZTMtZTUxMy00YzMwLWFmMzAtMDZmYTZmZmU0YWU0IiwidCI6ImYxNTFmM2I4LTA1OWItNGE3Yi1hMGQxLTMwODZkOGJkODU4ZiJ9" target="_blank">Clique aqui</a> e acesse o a solução desenvolvida.
 <br>
-<a href="https://github.com/WellAlencar/Dashboard-NBA/tree/main/PBI" target="_blank">Clique aqui</a> e acesse o repositório no Github.
+<a href="https://github.com/WellAlencar/Dashboard-NBA/blob/main/README.md" target="_blank">Clique aqui</a> e acesse o repositório no Github.
