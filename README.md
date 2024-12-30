@@ -32,10 +32,17 @@ Onde pode me encontrar:
 ## Portfólio e Principais Projetos
 ### Dashboard NBA 22-23
 <img align="right" width="500"  src="https://github.com/WellAlencar/Dashboard-NBA/blob/main/Imagens/NBA_3.png?raw=true">
-Projeto de dashboard desenvolvido com Power BI para identificar as principais estatísticas de 10 jogadores que se destacaram na temporada 22-23 da NBA, análise exploratória sobre estrelas do basquete na temporada.<br>
-Principais objetivos: <br>
-- Entender características dos 10 jogadores, Idade, altura, peso.<br>
-- Trazer dados de performance da média do jogador por jogo: Pontos, Assistências, Turnovers, Jogos disputados, Cestas de 2 e 3 PTS, Lances livres e rebotes.
+Utilizando a base de dados da temporada 2022-2023 da NBA, baixada diretamente do site Kaggle, desenvolvi um dashboard para análise exploratória das principais estatísticas de 10 jogadores que se destacaram na temporada.
+
+O projeto foi criado no Power BI, com o design do fundo desenvolvido no Figma, e permite uma análise detalhada dos seguintes aspectos:
+
+Objetivos principais:
+
+-Analisar as características dos 10 jogadores: idade, altura e peso.
+
+-Explorar dados de performance média por jogo: pontos, assistências, turnovers, jogos disputados, cestas de 2 e 3 pontos, lances livres e rebotes.
+
+Este dashboard permite visualizar e comparar o desempenho desses atletas ao longo da temporada, oferecendo insights sobre o que faz esses jogadores se destacarem no cenário da NBA.
 <br>
 <a href="https:https://app.powerbi.com/view?r=eyJrIjoiYjBiYmI1ZTMtZTUxMy00YzMwLWFmMzAtMDZmYTZmZmU0YWU0IiwidCI6ImYxNTFmM2I4LTA1OWItNGE3Yi1hMGQxLTMwODZkOGJkODU4ZiJ9" target="_blank">Clique aqui</a> e acesse o a solução desenvolvida.
 <br>
