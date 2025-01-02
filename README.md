@@ -59,7 +59,6 @@ A análise indica que a crescente demanda por energia, desafios na distribuiçã
 A pobreza energética, que afeta bilhões de pessoas no mundo, é caracterizada pela falta de acesso a combustíveis limpos e energia confiável. Dados da OMS indicam que 2,3 bilhões de pessoas não têm fontes adequadas para cozinhar, e mais de 60 milhões na América Latina ainda dependem da lenha, o que resulta em sérios problemas de saúde e altos custos financeiros 
 
 A discussão sobre políticas públicas que possam mitigar os impactos desse aumento sobre os consumidores é fundamental. Programas de apoio às famílias de baixa renda e estratégias que garantam maior previsibilidade nos reajustes podem contribuir para ampliar o acesso ao GLP, especialmente para populações vulneráveis. 
-
 <br>
 <a href="https://app.powerbi.com/view?r=eyJrIjoiOGU0Mzk1MjMtZWM0Ni00YjBhLThkMTgtNTBmMzk5ZjIyN2I3IiwidCI6ImYxNTFmM2I4LTA1OWItNGE3Yi1hMGQxLTMwODZkOGJkODU4ZiJ9" target="_blank">Clique aqui</a> e acesse o a solução desenvolvida.
 <br>
