@@ -4,9 +4,9 @@
 
 Sobre mim:
 
-- 🔭 Atualmente trabalho como Estagiário em Performance Operacional
+- 🔭 Atualmente trabalho como Analista de dados jr na Copa Energia
 - 🏠 Atualmente moro e trabalho no Brasil, SP
-- 🌱 Buscando constantemente aprender novas tecnologias
+- 🌱 Apaixonado pelo mundo tech
 
 Principais Ferramentas:
 
