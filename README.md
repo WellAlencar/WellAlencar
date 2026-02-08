@@ -23,7 +23,7 @@ Onde pode me encontrar:
   <a href="https://www.linkedin.com/in/wellington-alencar-de-oliveira-41a6b6274/" target="_blank">
     <img align="center" alt="" height="40" width="40" src="https://github.com/BruceFonseca/Portfolio/blob/main/social%20icons/linkedin.png?raw=true">
   </a>
-  <a href="https://www.instagram.com/wellflows/" target="_blank">
+  <a href="https://www.instagram.com/alencarflows/?__pwa=1" target="_blank">
     <img align="center" alt="" height="40" width="40" src="https://github.com/BruceFonseca/Portfolio/blob/main/social%20icons/instagram.png?raw=true">
   </a>
 </div>
